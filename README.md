@@ -29,6 +29,7 @@ How to reach me: <a href='mailto:ma.ji.leng@gmail.com'>ma.ji.leng@gmail.com</a>
 ---
 
 <h3 align='center'>Technologies I have worked with and currently study:</h3>
+
 - **C#**
   - Entity Framework, ASP.NET core, Blazor, WPF
 
