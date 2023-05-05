@@ -5,7 +5,6 @@
 <p align='center'>
 Java fullstack developer in the making!</br>
 Undertaking a 2-year Java Developer fullstack program @<a href='https://www.iths.se/'>IT-Högskolan</a></br>
-Currently doing my internship @<a href='https://www.mobilityguard.com/'>MobilityGuard</a>
 </p>
  
 <p align='center'>
@@ -30,7 +29,31 @@ How to reach me: <a href='mailto:ma.ji.leng@gmail.com'>ma.ji.leng@gmail.com</a>
 ---
 
 <h3 align='center'>Technologies I have worked with and currently study:</h3>
+- **C#**
+  - Entity Framework, ASP.NET core, Blazor, WPF
 
+- **DATABASE**
+  - SQL server, MongoDB
+
+- **WEB**
+  - HTML, CSS, Javascript, JWT, CSS Frameworks (Bootstrap)
+
+- **GIT**
+  - Console commands, GitHub
+
+- **WEB SERVICES**
+  - REST API
+  
+- **IDEs**
+  - Visual Studio, Visual Studio Code
+
+- **WORKFLOW**
+  - CI & CD pipelines, Github actions & Projects, Agile methods, Scrum
+
+- **OTHER**
+  - Problem solving, creative solutions and out-of-the-box thinking
+  - Music, dance and other pursuits
+  - Team player, willing and eager to learn
 
 ---
 
