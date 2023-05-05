@@ -3,8 +3,8 @@
 </h1>
 
 <p align='center'>
-Java fullstack developer in the making!</br>
-Undertaking a 2-year Java Developer fullstack program @<a href='https://www.iths.se/'>IT-Högskolan</a></br>
+.NET fullstack developer in the making!</br>
+Undertaking a 2-year .NET Developer fullstack program @<a href='https://www.iths.se/'>IT-Högskolan</a></br>
 </p>
  
 <p align='center'>
