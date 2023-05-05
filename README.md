@@ -1,16 +1,37 @@
-### Hi there 👋
+<h1 align='center'>
+  Hello I'm Jing!
+</h1>
 
-<!--
-**coldmagpie/coldmagpie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+Java fullstack developer in the making!</br>
+Undertaking a 2-year Java Developer fullstack program @<a href='https://www.iths.se/'>IT-Högskolan</a></br>
+Currently doing my internship @<a href='https://www.mobilityguard.com/'>MobilityGuard</a>
+</p>
+ 
+<p align='center'>
+  <a href="https://www.linkedin.com/in/jing-leng-135878188/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href='mailto:ma.ji.leng@gmail.com'>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
+  
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=coldmagpie&show_icons=true&theme=dark" width="350"></a>
+</p>
 
-Here are some ideas to get you started:
+<p align='center'>
+How to reach me: <a href='mailto:ma.ji.leng@gmail.com'>ma.ji.leng@gmail.com</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=coldmagpie&label=Profile%20views&color=0e75b6&style=flat" alt="Jings profile views"/></p>
+
+---
+
+<h3 align='center'>Technologies I have worked with and currently study:</h3>
+
+
+---
+
+Looking for **Part-time Work** during my studies!
